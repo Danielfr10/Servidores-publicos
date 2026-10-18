@@ -1,10 +1,10 @@
 Capacita Servidores - Plataforma de Capacitação Continuada
-
-É um projeto para criar cursos para a capacitação de servidores públicos, aonde virmos a falta disso no mercado.
 ---
+É um projeto para criar cursos para a capacitação de servidores públicos, aonde virmos a falta disso no mercado.
 
-  Como Executar o Projeto Localmente
 
+Como Executar o Projeto Localmente
+--
 Siga as instruções abaixo para clonar o repositório e executar a aplicação no seu ambiente de desenvolvimento local.
 
 Pré-requisitos
